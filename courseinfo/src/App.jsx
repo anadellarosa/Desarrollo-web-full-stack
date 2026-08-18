@@ -45,6 +45,7 @@ const Total = (props) => {
 const App = () => {
   const course = 'Half Stack application development'
 //Lo que hacemos aqui a diferencia del anterior es convertir en objetos
+//Objetos en JavaScript
   const part1 = {
     name: 'Fundamentals of React',
     exercises: 10
